@@ -1,6 +1,5 @@
-# Hey, I'm Maks 👋
-IT student from Ukraine passionate about building things that work. From web apps to networks to robots.  
-Currently studying Software Development at **IMS Kanti Baden**.
+# 💫 About Me
+IT student from Ukraine, now studying Software Development at IMS Kanti Baden in Switzerland. I'm drawn to the full stack of tech — writing code, configuring networks, and tinkering with hardware
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_k0ssm_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/MaksymKos)
