@@ -37,11 +37,7 @@ Currently studying Software Development at **IMS Kanti Baden**.
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0S24&theme=github_dark)
 
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K0S24&theme=github_dark" width="49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=K0S24&theme=github_dark" width="49%" />
-</p>
 
 ---
 
-<p align="center"><i>"First, solve the problem. Then, write the code."</i></p>
+
