@@ -48,21 +48,18 @@ IT student passionate about building things that actually work — from web apps
 
 ## GitHub Stats
 
-<div align="center">
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=K0S24&theme=nord&hide_border=true&include_all_commits=false&count_private=false)
+
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=K0S24&theme=nord&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K0S24&theme=nord&hide_border=true&layout=compact)
 
 </div>
 
 ---
 
-<div align="center">
-
-[![Visits](https://visitcount.itsvg.in/api?id=K0S24&icon=0&color=0)](https://visitcount.itsvg.in)
-
 </div>
+
+
 
