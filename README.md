@@ -1,40 +1,13 @@
-<div align="center">
+## 🔄 About Me
 
-```
-██╗  ██╗ ██████╗ ███████╗██████╗ ██╗  ██╗
-██║ ██╔╝██╔═████╗██╔════╝╚════██╗██║  ██║
-█████╔╝ ██║██╔██║███████╗ █████╔╝███████║
-██╔═██╗ ████╔╝██║╚════██║██╔═══╝ ╚════██║
-██║  ██╗╚██████╔╝███████║███████╗     ██║
-╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝     ╚═╝
-```
-
-*full-stack curious · network-obsessed · hardware tinkerer*
+IT student from Ukraine, now studying Software Development at IMS Kanti Baden in Switzerland. I'm drawn to the full stack of tech — writing code, configuring networks, and tinkering with hardware
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 
-</div>
-
 ---
 
-### `> whoami`
-
-```yaml
-name: K0S24
-origin: Ukraine 🇺🇦
-current_location: Baden, Switzerland 🇨🇭
-studying: Software Development @ IMS Kanti Baden
-interests:
-  - writing code that actually works
-  - configuring networks (and breaking them first)
-  - tinkering with hardware until something sparks
-mindset: "full stack of tech — from silicon to browser"
-```
-
----
-
-### `> ls ./tech-stack`
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -64,30 +37,9 @@ mindset: "full stack of tech — from silicon to browser"
 
 ---
 
-### `> cat ./github-stats.log`
+## 📊 GitHub Stats
 
-<div align="center">
+![K0S24's GitHub stats](https://github-readme-stats.vercel.app/api?username=K0S24&show_icons=true&theme=tokyonight&hide_border=true)
 
-![K0S24's GitHub stats](https://github-readme-stats.vercel.app/api?username=K0S24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K0S24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
-
-</div>
-
----
-
-### `> ping me`
-
-Got a project idea? Want to talk tech, networks, or hardware?
-
-[![Instagram](https://img.shields.io/badge/DM%20on%20Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-
----
-
-<div align="center">
-
-*`// currently: writing code somewhere between Kyiv and Baden`*
-
-</div>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=K0S24&theme=tokyo-night&hide_border=true)
 
