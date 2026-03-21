@@ -37,9 +37,3 @@ IT student from Ukraine, now studying Software Development at IMS Kanti Baden in
 
 ---
 
-## 📊 GitHub Stats
-
-![K0S24's GitHub stats](https://github-readme-stats.vercel.app/api?username=K0S24&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=K0S24&theme=tokyo-night&hide_border=true)
-
