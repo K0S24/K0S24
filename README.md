@@ -1,4 +1,4 @@
-## 🔄 About Me
+## About Me
 
 IT student from Ukraine, now studying Software Development at IMS Kanti Baden in Switzerland. I'm drawn to the full stack of tech — writing code, configuring networks, and tinkering with hardware
 
