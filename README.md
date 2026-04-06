@@ -7,7 +7,7 @@ IT student from Ukraine, now studying Software Development at IMS Kanti Baden in
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
