@@ -1,5 +1,4 @@
 ## About Me
-
 IT student from Ukraine, now studying Software Development at IMS Kanti Baden in Switzerland. I'm drawn to the full stack of tech — writing code, configuring networks, and tinkering with hardware.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
@@ -8,16 +7,14 @@ IT student from Ukraine, now studying Software Development at IMS Kanti Baden in
 ---
 
 ## 📁 Projects
-
 - [**Code Mafia**](https://code-mafia-xi.vercel.app) – multiplayer coding game with Monaco editor (React, Node.js, Socket.io)
-- [**Repeto**](https://github.com/K0S24) – spaced-repetition learning app
-- [**Mystic Tarot**](https://github.com/K0S24) – interactive tarot web app
+- [**Repeto**](https://github.com/K0S24/Repeto) – spaced-repetition learning app
+- [**Mystic Tarot**](https://mystic-tarot-neon.vercel.app) – interactive tarot web app
 - [**Portfolio**](https://maksymkos.com) – personal portfolio (React + Vite + TypeScript)
 
 ---
 
 ## 💻 Tech I Use
-
 **Languages**
 
 ![Languages](https://skillicons.dev/icons?i=cs,py,js,ts,html,css,bash,powershell)
@@ -35,4 +32,3 @@ IT student from Ukraine, now studying Software Development at IMS Kanti Baden in
 ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 
 ---
-
