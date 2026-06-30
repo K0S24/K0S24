@@ -8,7 +8,7 @@ IT student from Ukraine, now studying Software Development at IMS Kanti Baden in
 
 ## 📁 Projects
 - [**Code Mafia**](https://code-mafia-xi.vercel.app) – multiplayer coding game with Monaco editor (React, Node.js, Socket.io)
-- [**Repeto**](https://github.com/K0S24/Repeto) – spaced-repetition learning app
+- [**Repeto**](repeto-nine.vercel.app) – spaced-repetition learning app
 - [**Mystic Tarot**](https://mystic-tarot-neon.vercel.app) – interactive tarot web app
 - [**Portfolio**](https://maksymkos.com) – personal portfolio (React + Vite + TypeScript)
 
